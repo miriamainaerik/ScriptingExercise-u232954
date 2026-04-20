@@ -1,6 +1,8 @@
 # ScriptingExercise-u232954
 Erik Verdier Montero (u232954)
 
+The compiled game build is available in Releases.
+
 ## Extra Features Implemented
 
 ### 1. Heart Effect System
